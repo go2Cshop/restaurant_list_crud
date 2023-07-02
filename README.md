@@ -1,5 +1,6 @@
 # 我的餐廳清單
-![Index page about Restaurant List](./清單crud.png ＝500x300)
+![Index page about Restaurant List](./清單crud.png)
+<img src="./清單crud.png" width="500" height="300">
 ## 介紹
 紀錄屬於自己的餐廳清單, 可以瀏覽餐廳、查看詳細資訊、甚至連結到地圖
 
